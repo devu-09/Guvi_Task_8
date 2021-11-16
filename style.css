@@ -1,0 +1,306 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: rgb(70, 69, 69);
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    height:260px;
+     
+    
+}
+.container1{
+    width: 70%;
+    margin: auto;
+}
+
+.container2{
+    width: 75%;
+    background-color: white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    height: 80px;
+    gap: 20px;
+}
+
+.container2 p{
+    font-size: 18px;
+}
+
+.main6{
+    background-color:rgb(37, 36, 36) ;
+}
+
+.col{
+    background-color: rgb(37, 36, 36);
+}
+
+.top1{
+    display: flex;
+    width: 25%;
+    margin-left: 15px;
+}
+
+.searchb{
+    width: 25px;
+}
+
+.top12{
+    display: flex;
+    justify-content: space-around;
+    
+    width: 50%;
+}
+.btn button{
+float: left;
+width: 30px;
+
+
+}
+.top13{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    width: 25%;
+    float: right;
+}
+
+.main{
+    display: flex;
+    place-items: center;
+    align-items: center;
+}
+
+.main1{
+    position: relative;
+    margin-left: 80px;
+    font-size: 15px;
+}
+
+.top2 img{
+    position: absolute;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    top: 20px;
+    left: 20px;
+   
+}
+
+.top21{
+    position: absolute;
+    top: 80px;
+    left: 200px;
+}
+
+.top22{
+    position: absolute;
+    top: 100px;
+    left: 620px;
+}
+
+.top22 button{
+width: 300px;
+border: none;
+padding: 10px;
+background-color: rgb(42, 150, 238);
+font-size: 15px;
+}
+
+.top24{
+    display: flex;
+    place-content: center;
+    align-items: center;
+    gap: 5px;
+}
+.top23{
+    position: absolute;
+    top: 135px;
+    left: 730px;
+}
+
+
+.top25 ul{
+    display: flex;
+    gap:30px;
+}
+
+.top25 li{
+    list-style: none;
+}
+
+.top25{
+    position: absolute;
+    left: 8px;
+    top: 210px;
+    
+}
+
+.top26{
+    position: absolute;
+    top: 205px;
+    left: 630px;
+}
+
+.top26 button{
+    padding: 10px;
+    font-size: 15px;
+    background-color: rgb(54, 54, 91);
+    border: none;
+    color: white;
+}
+
+.top3{
+    position: absolute;
+    left: 15px;
+    top: 16px;
+    
+}
+
+/*.top3 p{
+    position: absolute;
+    margin-left: 20px;
+}*/
+.top3 p a{
+   margin-left: 300px;
+}
+
+.top31{
+    position: absolute;
+    left: 8px;
+    top: 40px;
+    padding: 20px;
+    font-size: 15px;
+    margin-left: 10px;
+    line-height: 25px;
+}
+
+
+
+.top32{
+    display: flex;
+   justify-content: center; 
+   margin-top: 10px;
+   gap: 20px;
+}
+
+.top32 img{
+    border-radius: 50%;
+} 
+
+.top32 button
+{
+    width: 450px;
+    padding: 10px;
+    background-color:rgb(54, 54, 91);
+    border: none;
+    color: white;
+    margin-top: 5px;
+}
+
+.top33{
+    position: relative;
+    width: 40%;
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: rgb(37, 36, 36);
+    border-radius: 10px;
+}
+
+.main2{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    
+}
+
+.main3{
+    margin-top: 20px;
+    width: 105%;
+    background-color: rgb(37, 36, 36);
+    height: 150px;
+    border-radius: 10px;
+}
+
+.top34{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.top34 button{
+    padding: 10px;
+    border: none;
+    background-color: rgb(37, 36, 36);
+    font-size: 15px;
+    color: white;
+}
+
+.list1{
+    color: blue;
+}
+
+.top4{
+    display: flex;
+    gap:10px;
+}
+
+.top41{
+    display: flex;
+    justify-content: space-between;
+}
+.main4{
+    margin-top: 10px;
+    width: 100%;
+    background-color: rgb(37, 36, 36);
+    height: 520px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.main5{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.top43{
+    align-self: center;
+}
+
+.top43 img{
+    margin-right: 10px;
+}
+
+.top4{
+    margin-left: 10px;
+}
+
+.top42{
+    margin-left: 10px;
+}
+
+.top42 img{
+    margin: 0;
+}
+
+.para{
+    margin: -3px;
+}
+
+#para1{
+    margin-left: 20px;
+}
+
+.top44{
+    margin-top: 30px;
+}
